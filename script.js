@@ -60,7 +60,7 @@ $(document).ready(function() {
 	$('#helloButton').on('click', function(e) {
 	  e.preventDefault(); // Prevent default action
 	  $('body').fadeOut(1000, function() { // Fade out animation
-		window.location.href = 'https://youtu.be/uY-CKe4lvwY?t=50'; // Redirect
+		window.location.href = 'https://youtu.be/uY-CKe4lvwY?t=51'; // Redirect
 	  });
 	});
   });
